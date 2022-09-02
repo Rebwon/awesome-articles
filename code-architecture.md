@@ -27,3 +27,6 @@ DDD의 BoundedContext가 우리의 이야기와 밀접해지다
 
 카테고리 이론 정리.
 - https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
+회원 기반 이벤트 주도 아키텍처
+- https://techblog.woowahan.com/7835/
